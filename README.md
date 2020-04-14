@@ -12,10 +12,10 @@ Ces instructions vous permettront d'obtenir une copie du projet sur votre ordina
 
 Ce qu'il faut pour utiliser l'application / le site internet
 
-'''
+```
 - Un portable sous android ou IOS
 - Un accès à internet
-'''
+```
 
 ### Fait avec
 
@@ -28,4 +28,4 @@ Ce qu'il faut pour utiliser l'application / le site internet
 * [**Cosmin Sustac**](https://github.com/N0ot-No0t)
 * [**Malcom Morel**](https://github.com/Malcomle)
 
-### **[EN]**	
+### **[EN]**	 
