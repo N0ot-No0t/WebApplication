@@ -1,6 +1,6 @@
 # Customs Questions
 
-## **[FR]**	
+### **[FR]**	
 
 Une application mobile de questions réponses avec des points en récompense et possibiliter d'ajout de question sur le site internet.
 
@@ -28,4 +28,4 @@ Ce qu'il faut pour utiliser l'application / le site internet
 * [**Cosmin Sustac**](https://github.com/N0ot-No0t)
 * [**Malcom Morel**](https://github.com/Malcomle)
 
-## **[EN]**	
+### **[EN]**	
