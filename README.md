@@ -1,5 +1,5 @@
 # WebApplication
 	
-#Authors:
+Authors:
 - Cosmin Sustac
 - Malcom Morel
